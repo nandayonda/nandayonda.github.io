@@ -65,4 +65,4 @@ i try to find is there a cashless cafe in bandung soo here it is
 ## Conclusion
 We now know basic information we need when we confused to find a suitable cafe as what we want, and the average spend is cheap in bandung. soo good luck and have fun exploring all cafe spot in bandung!!!
 
-If you curious how i get and explore the data [here](https://github.com/nandayonda/nandayonda.github.io) is the repo
+If you curious how i get and explore the data [here](https://github.com/nandayonda/cafe-eda) is the repo
