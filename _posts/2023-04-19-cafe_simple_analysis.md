@@ -7,6 +7,7 @@ layout: post
 ---
 
 ![image info](/assets/cafe/utara-cafe.jpg)
+
 Bandung city known for it's variety in cullinary. a lot of people came just to taste the food that can only be found in bandung, other than that there's so much place to hangout in bandung that it become destination itself for people that came to bandung and one of that place is cafe. here i'm trying to do a simple analysis about cafe in bandung, the data that i get was from [here](https://pergikuliner.com/restoran/bandung/)
 
 ## How many cafes in Bandung?
