@@ -4,7 +4,7 @@ author: Nanda Yonda
 date: 2023-04-19
 category: Jekyll
 layout: post
-cover: https://nandayonda.github.io/assets/jekyll-gitbook/me2.jpg
+cover: https://nandayonda.github.io/assets/me2.jpg
 ---
 
 Hello! i'm **Nanda Yonda** and currently working in IT consultant as Data Team, my work include *preparing dataset to create machine learning model*, create machine learning model itself and mostly about *NLP(Natural Language Processing)*, do some *research about newest tools* in data field, data scraping from internet, *explore, analyze, and visualize data*.
