@@ -37,15 +37,7 @@ Many of us often confused when we want to determine where the most suitable cafe
 ![image info](/assets/cafe/chart_clean_max.png)
 
 to simplify, if i include only the top 5 to table
-<div class="table-wrapper" markdown="block">
-|rasa|suasana|harga : rasa|pelayanan|kebersihan|
-|:-:|:-:|:-:|:-:|:-:|
-|Simini Coffee  |Communal Coffee         |Communal Coffee|Simini Coffee  |Simini Coffee|
-|Communal Coffee|Mannery                 |Mannery        |Communal Coffee|Communal Coffee|
-|Dapur Rahasia  |Dapur rahasia           |Secukupnya Saji|Dapur Rahasia  |Dapur Rahasia|
-|Mannery        |My Kopi-O! - Hay Bandung|Kopi Toko Djawa|Mannery        |Mannery|
-|Secukupnya Saji|Gormeteria              |Little Contrast|Secukupnya Saji|Little Contrast|
-</div>
+ ![image info](/assets/cafe/top5_cafe.png)
 
 From the table we can know cafe that dominate the top 5 in each rating category is Communal Coffee, Mannery, Simini coffee, and Dapur Rahasia.
 just from this simple analysis i can recommend you to go to this cafes :)
