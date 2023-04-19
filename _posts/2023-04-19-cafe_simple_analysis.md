@@ -46,6 +46,7 @@ just from this simple analysis i can recommend you to go to this cafes :)
 Okay, maybe second thought we often think when we want to hangout is "how much the cost we spend to that cafe?", so here i try to generalize the average cost we can spend to the cafe based on each area and with 3 category spend range
 
 ![image info](/assets/cafe/cafe_spend_range.png)
+
 From chart above now we know we shouldn't worry about the price because most of the area have spend range below 50k rupiah!!
 
 ## What kind of Cafe?
