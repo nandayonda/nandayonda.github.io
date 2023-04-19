@@ -12,3 +12,4 @@ Hello! i'm **Nanda Yonda** and currently working in IT consultant as Data Team, 
 # Contact Me
 - Contact me through [Linkedin](https://www.linkedin.com/in/nanda-yonda-29aa261aa/)
 - Or through [Email](mailto:yondananda@gmail.com)
+- Or i'm mostly active on [ig](https://www.instagram.com/nandayonda/)
